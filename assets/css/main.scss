@@ -112,14 +112,15 @@ ul {
 		margin-top: 20px;
 		margin-bottom: 6px;
 		h1 {
-			color: #1DAFBF;
+			background-color: #1DAFBF;
+			color: #fff;
 			display: inline-block;
 			font-size: 1.6em;
 			font-weight: 700;
 			padding-right: 10px;
 			padding-bottom: 2px;
 			text-decoration: none;
-			border-bottom: 3px solid $color-black;
+			/*border-bottom: 3px solid $color-black;*/
 		}
 	}
 	&__date {

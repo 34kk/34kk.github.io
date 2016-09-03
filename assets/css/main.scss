@@ -19,10 +19,10 @@ p {
 	line-height: 150%;
 }
 a {
-  color: #1DAFBF;
+  color: #FF2374;
   text-decoration: none;
   &:visited {
-	color: #1DAFBF;
+	color: #FF2374;
 	text-decoration: none;
   }
   &:hover {
@@ -32,7 +32,7 @@ a {
 	border-bottom: 1px solid $color-link;
   }
   &:active {
-	color: #1DAFBF;
+	color: #FF2374;
 	text-decoration: none;
   }
 }
@@ -112,8 +112,8 @@ ul {
 		margin-top: 20px;
 		margin-bottom: 6px;
 		h1 {
-			background-color: #1DAFBF;
-			color: #fff;
+			
+			color: #FF2374;
 			display: inline-block;
 			font-size: 1.6em;
 			font-weight: 700;

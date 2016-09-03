@@ -19,20 +19,20 @@ p {
 	line-height: 150%;
 }
 a {
-  color: $color-link;
+  color: #1DAFBF;
   text-decoration: none;
   &:visited {
-	color: $color-link;
+	color: #1DAFBF;
 	text-decoration: none;
   }
   &:hover {
-	color: $color-link;
+	color: #1DAFBF;
 	text-decoration: none;
 	padding-bottom: 1px;
 	border-bottom: 1px solid $color-link;
   }
   &:active {
-	color: $color-link;
+	color: #1DAFBF;
 	text-decoration: none;
   }
 }
